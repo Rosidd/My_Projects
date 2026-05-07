@@ -7,7 +7,7 @@ def get_db_connection():
              host='localhost',
              database='new_schema',
              user='root',
-             password='password'
+             password='xxxxxxxx'
          )
          return connection
      except Error as e:
